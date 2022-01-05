@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashleyh12
+- 👋 Hi, I’m Ashley
 - 👀 I enjoy cooking, photography, and watching movies in my free time
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
