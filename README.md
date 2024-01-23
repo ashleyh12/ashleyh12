@@ -4,5 +4,6 @@ ashleyh12/ashleyh12 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Hello! 
-
+Python, C++, HTML, JS, and Java
+In the process of relearning Java... let's see how that goes
 ٩(ˊᗜˋ*)و ♡
